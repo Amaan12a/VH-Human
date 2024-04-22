@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnoxSoftware.OpenCVForUnity", "EnoxSoftware.OpenCVForUnity.csproj", "{F993DAA6-705A-8719-41BA-29D6B7B73833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soupday.cc3_unity_tools.editor", "soupday.cc3_unity_tools.editor.csproj", "{1B033E49-5E06-0E26-0818-1BC7E45A9C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2F3B78E8-13BF-5F94-C65A-7D2BDB36A845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{7BFF5B54-A286-7D8B-F89D-B004E3FA899C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3D479F28-0BBC-AC21-D3C6-BDB910F350B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soupday.cc3_unity_tools.runtime", "soupday.cc3_unity_tools.runtime.csproj", "{7CA754DA-7F39-5D5C-9E33-A624C29E5DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F993DAA6-705A-8719-41BA-29D6B7B73833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F993DAA6-705A-8719-41BA-29D6B7B73833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F993DAA6-705A-8719-41BA-29D6B7B73833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F993DAA6-705A-8719-41BA-29D6B7B73833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B033E49-5E06-0E26-0818-1BC7E45A9C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B033E49-5E06-0E26-0818-1BC7E45A9C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B033E49-5E06-0E26-0818-1BC7E45A9C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B033E49-5E06-0E26-0818-1BC7E45A9C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3B78E8-13BF-5F94-C65A-7D2BDB36A845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3B78E8-13BF-5F94-C65A-7D2BDB36A845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3B78E8-13BF-5F94-C65A-7D2BDB36A845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3B78E8-13BF-5F94-C65A-7D2BDB36A845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFF5B54-A286-7D8B-F89D-B004E3FA899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFF5B54-A286-7D8B-F89D-B004E3FA899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFF5B54-A286-7D8B-F89D-B004E3FA899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFF5B54-A286-7D8B-F89D-B004E3FA899C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D479F28-0BBC-AC21-D3C6-BDB910F350B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D479F28-0BBC-AC21-D3C6-BDB910F350B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D479F28-0BBC-AC21-D3C6-BDB910F350B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D479F28-0BBC-AC21-D3C6-BDB910F350B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA754DA-7F39-5D5C-9E33-A624C29E5DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA754DA-7F39-5D5C-9E33-A624C29E5DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA754DA-7F39-5D5C-9E33-A624C29E5DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA754DA-7F39-5D5C-9E33-A624C29E5DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
